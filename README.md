@@ -4,7 +4,7 @@ ReactJs, Graphql, MongoDB_Compass, CRUD (UPDATING, ADDING, DELETING, GETTING)
 npm install (both for Client and Server File),
 npm start (Client File),
 nodemon ( Server file),
-open chrome (type localhost:3000).
+open Browser like chrome, safari, mozilla, edge, etc.. (type localhost:3000).
 
 
 The End...
