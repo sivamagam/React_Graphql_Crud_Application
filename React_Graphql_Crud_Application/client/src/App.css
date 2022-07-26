@@ -1,0 +1,20 @@
+.heading{
+    background-color: aliceblue;
+    font-size: 22px;
+    border-radius: 5px;
+    color: rgb(21, 137, 176)
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+*{
+    background-color: azure;
+}
